@@ -1,0 +1,10 @@
+General Plan:
+1. Moving environment scrolling L to R
+    i. Speed
+    ii. Obstacles
+        - Levels? HARDER LEVELS = ICICLES FALLING 
+    
+2. Bird jumping vertically
+    i. user controlled
+
+3. If Bird touches environment then fail
